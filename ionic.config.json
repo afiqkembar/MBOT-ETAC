@@ -1,0 +1,8 @@
+{
+  "name": "MBOT-ETAC",
+  "app_id": "8626fa73",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
